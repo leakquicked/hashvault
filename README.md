@@ -1,3 +1,5 @@
+![Python checks](https://github.com/leakquicked/hashvault/actions/workflows/python-checks.yml/badge.svg)
+
 # HashVault
 
 Build a local SHA-256 manifest.
